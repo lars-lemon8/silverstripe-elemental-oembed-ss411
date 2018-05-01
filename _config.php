@@ -1,0 +1,4 @@
+<?php
+
+define('SILVERSTRIPE_ELEMENTAL-OEMBED_PATH', __DIR__);
+define('SILVERSTRIPE_ELEMENTAL-OEMBED_DIR', basename(__DIR__));
