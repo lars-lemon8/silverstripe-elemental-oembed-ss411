@@ -1,6 +1,6 @@
 <?php
 
-namespace Dynamic\Elements\Elements;
+namespace Dynamic\Elements\Oembed\Elements;
 
 use DNADesign\Elemental\Models\BaseElement;
 use Sheadawson\Linkable\Forms\EmbeddedObjectField;
