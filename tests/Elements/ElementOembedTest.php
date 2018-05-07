@@ -1,8 +1,8 @@
 <?php
 
-namespace Dynamic\Elements\Tests;
+namespace Dynamic\Elements\Oembed\Tests;
 
-use Dynamic\Elements\Elements\ElementOembed;
+use Dynamic\Elements\Oembed\Elements\ElementOembed;
 use SilverStripe\Dev\SapphireTest;
 use SilverStripe\Forms\FieldList;
 use SilverStripe\ORM\FieldType\DBField;
