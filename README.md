@@ -1,6 +1,17 @@
-# silverstripe-elemental-oembed
+# Silverstripe Elemental Oembed Block
 
-Additional elements for the [SilverStripe Elemental](https://github.com/dnadesign/silverstripe-elemental) module.
+A content block to embed media from other websites via oEmbed
+
+[![Build Status](https://travis-ci.org/dynamic/silverstripe-elemental-oembed.svg?branch=master)](https://travis-ci.org/dynamic/silverstripe-elemental-oembed)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-oembed/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-oembed/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-oembed/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-oembed/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-oembed/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-oembed/build-status/master)
+[![codecov](https://codecov.io/gh/dynamic/silverstripe-elemental-oembed/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-elemental-oembed)
+
+[![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-oembed/v/stable)](https://packagist.org/packages/dynamic/silverstripe-elemental-oembed)
+[![Total Downloads](https://poser.pugx.org/dynamic/silverstripe-elemental-oembed/downloads)](https://packagist.org/packages/dynamic/silverstripe-elemental-oembed)
+[![Latest Unstable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-oembed/v/unstable)](https://packagist.org/packages/dynamic/silverstripe-elemental-oembed)
+[![License](https://poser.pugx.org/dynamic/silverstripe-elemental-oembed/license)](https://packagist.org/packages/dynamic/silverstripe-elemental-oembed)
 
 ## Requirements
 
