@@ -38,7 +38,7 @@ The default templates are based off [Bootstrap 4](https://getbootstrap.com/) cla
 #### CMS - oEmbed Main Tab
 ![CMS - oEmbed Main Tab](./readme-images/oembed-block-cms.jpg)
 
-## ## Getting more elements
+## Getting more elements
 
 See [Elemental modules by Dynamic](https://github.com/dynamic/silverstripe-elemental-blocks#getting-more-elements)
 
