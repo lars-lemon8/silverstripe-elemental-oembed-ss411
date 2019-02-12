@@ -15,7 +15,6 @@ A content block to embed media from other websites via oEmbed
 
 ## Requirements
 
-* silverstripe/recipe-cms: ^4@dev
 * dnadesign/silverstripe-elemental: ^4@dev
 
 ## Installation

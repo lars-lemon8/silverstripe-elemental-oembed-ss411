@@ -15,9 +15,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "dnadesign/silverstripe-elemental": "^4@dev",
-        "sheadawson/silverstripe-linkable": "^2@dev",
-        "silverstripe/recipe-cms": "^4@dev",
-        "silverstripe/vendor-plugin": "^1@dev"
+        "sheadawson/silverstripe-linkable": "^2@dev"
     },
     "require-dev": {
         "phpunit/PHPUnit": "^5.7",
