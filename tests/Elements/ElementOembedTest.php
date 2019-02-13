@@ -41,6 +41,6 @@ class ElementOembedTest extends SapphireTest
     public function testGetType()
     {
         $object = $this->objFromFixture(ElementOembed::class, 'one');
-        $this->assertEquals($object->getType(), 'oEmbed');
+        $this->assertEquals($object->getType(), 'Media');
     }
 }
