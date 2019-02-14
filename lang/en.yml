@@ -1,0 +1,9 @@
+en:
+  Dynamic\Elements\Oembed\Elements\ElementOembed:
+    BlockType: Media
+    PLURALNAME: Media Elements
+    PLURALS:
+      one: 'A Media Element'
+      other: '{count} Media Elements'
+    SINGULARNAME: Media Element
+    EmbeddedObjectLabel: Content from oEmbed URL

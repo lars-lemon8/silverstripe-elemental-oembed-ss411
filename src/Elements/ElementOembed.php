@@ -16,16 +16,6 @@ class ElementOembed extends BaseElement
     private static $icon = 'font-icon-block-media';
 
     /**
-     * @return string
-     */
-    private static $singular_name = 'oEmbed Element';
-
-    /**
-     * @return string
-     */
-    private static $plural_name = 'oEmbed Elements';
-
-    /**
      * @var string
      */
     private static $table_name = 'ElementOembed';
@@ -46,6 +36,14 @@ class ElementOembed extends BaseElement
      */
     private static $inline_editable = false;
 
+    public function fieldLabels($includerelations = true)
+    {
+        $labels = parent::fieldLabels($includerelations);
+        $labels['EmbeddedObject'] = _t(__CLASS__ . '.EmbeddedObjectLabel', 'Content from oEmbed URL');
+
+        return $labels;
+    }
+
     /**
      * @return FieldList
      */
@@ -55,7 +53,7 @@ class ElementOembed extends BaseElement
 
         $fields->replaceField(
             'EmbeddedObjectID',
-            EmbeddedObjectField::create('EmbeddedObject', 'Content from oEmbed URL', $this->EmbeddedObject())
+            EmbeddedObjectField::create('EmbeddedObject', $this->fieldLabel('EmbeddedObject'), $this->EmbeddedObject())
         );
 
         return $fields;
@@ -88,6 +86,6 @@ class ElementOembed extends BaseElement
      */
     public function getType()
     {
-        return _t(__CLASS__.'.BlockType', 'oEmbed');
+        return _t(__CLASS__.'.BlockType', 'Media');
     }
 }
