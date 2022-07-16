@@ -1,8 +1,8 @@
-# Silverstripe Elemental Oembed Block
+# Silverstripe Elemental Media Block
 
 A content block to embed media from other websites via oEmbed
 
-
+[![CI](https://github.com/dynamic/silverstripe-elemental-oembed/actions/workflows/ci.yml/badge.svg)](https://github.com/dynamic/silverstripe-elemental-oembed/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/dynamic/silverstripe-elemental-oembed/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-elemental-oembed)
 
 [![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-oembed/v/stable)](https://packagist.org/packages/dynamic/silverstripe-elemental-oembed)
@@ -12,7 +12,8 @@ A content block to embed media from other websites via oEmbed
 
 ## Requirements
 
-* dnadesign/silverstripe-elemental: ^4@dev
+* dnadesign/silverstripe-elemental: ^4.8
+* dynamic/silverstripe-linkable: ^1.0
 
 ## Installation
 
