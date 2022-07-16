@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.3.0](https://github.com/dynamic/silverstripe-elemental-oembed/tree/2.3.0) (2022-07-15)
+
+## What's Changed
+* REFACTOR PHP8, PHPUNIT 9 compatability by @jsirish in https://github.com/dynamic/silverstripe-elemental-oembed/pull/17
+* ENHANCEMENT Bootstrap template by @jsirish in https://github.com/dynamic/silverstripe-elemental-oembed/pull/18
+
+
+**Full Changelog**: https://github.com/dynamic/silverstripe-elemental-oembed/compare/2.2.0...2.3.0
+
 ## [2.2.0](https://github.com/dynamic/silverstripe-elemental-oembed/tree/2.2.0) (2020-01-08)
 
 [Full Changelog](https://github.com/dynamic/silverstripe-elemental-oembed/compare/2.1.1...2.2.0)
