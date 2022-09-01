@@ -16,7 +16,9 @@
     "require": {
         "dnadesign/silverstripe-elemental": "^4.8",
         "gorriecoe/silverstripe-link": "^1.3",
-        "gorriecoe/silverstripe-embed": "^1"
+        "gorriecoe/silverstripe-embed": "^1",
+        "silvershop/silverstripe-hasonefield": "^3"
+
     },
     "require-dev": {
         "silverstripe/recipe-testing": "^2",
